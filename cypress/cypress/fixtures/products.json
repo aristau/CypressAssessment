@@ -1,0 +1,62 @@
+{
+   "id": [
+      1,
+      2,
+      3,
+      4,
+      5
+   ],
+   "name": [
+      "Blue Top",
+      "Men Tshirt",
+      "Sleeveless Dress",
+      "Stylish Dress",
+      "Winter Top"
+   ],
+   "price": [
+      "Rs. 500",
+      "Rs. 400",
+      "Rs. 1000",
+      "Rs. 1500",
+      "Rs. 600"
+   ],
+   "brand": [
+      "Polo",
+      "H&M",
+      "Madame",
+      "Madame",
+      "Mast & Harbour"
+   ],
+   "category": [
+      {
+         "usertype": {
+            "usertype": "Women"
+         },
+         "category": "Tops"
+      },
+      {
+         "usertype": {
+            "usertype": "Men"
+         },
+         "category": "Tshirts"
+      },
+      {
+         "usertype": {
+            "usertype": "Women"
+         },
+         "category": "Dress"
+      },
+      {
+         "usertype": {
+            "usertype": "Women"
+         },
+         "category": "Dress"
+      },
+      {
+         "usertype": {
+            "usertype": "Women"
+         },
+         "category": "Tops"
+      }
+   ]
+}
