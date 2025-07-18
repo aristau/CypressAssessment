@@ -4,7 +4,7 @@ class HomePage {
     };
 
     navigate(){
-        cy.visit('https://example.cypress.io')
+        cy.visit('/')
     }
 }
 
